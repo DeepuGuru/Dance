@@ -1,0 +1,12 @@
+[
+	{
+		"AcademyName": "Dance Academy",
+		"OrganizationId": "Dance",
+		"Description": "This is Dance School"
+	},
+	{
+		"AcademyName": "Music Academy",
+		"OrganizationId": "Music",
+		"Description": "This is Music School"
+    }
+]

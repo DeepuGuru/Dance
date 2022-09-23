@@ -1,0 +1,161 @@
+.top-content {
+  width: 100%;
+  padding: 0;
+}
+
+.top-content .carousel-control-prev {
+  border-bottom: 0;
+}
+
+.top-content .carousel-control-next {
+  border-bottom: 0;
+}
+body{
+  background-color: black;
+  background-position: center;
+  background-size: cover !important;
+}
+.top-content .carousel-caption {
+  padding-bottom: 60px;
+  margin-bottom:20%;
+  margin-bottom: 20%;
+  background: rgba(0,0,0,0.6);
+  padding: 50px 100px;
+}
+
+.carousel-caption h5{
+    font-size:60px;
+    text-transform:uppercase;
+}
+
+.carousel-caption p{
+    font-size:20px;
+}
+
+.top-content .carousel-caption h1 {
+  padding-top: 60px;
+  color: #fff;
+}
+
+.top-content .carousel-caption h3 {
+  color: #fff;
+}
+
+.top-content .carousel-caption .carousel-caption-description {
+  color: #fff;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.top-content .carousel-indicators li {
+  width: 16px;
+  height: 16px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 50%;
+}
+.fwh{
+  display: contents;
+}
+
+.heading1{
+  color:#5ed0e4;
+  margin-top: 50px;
+}
+
+.heading{
+  color:white;
+}
+
+.card{
+  background-color: rgba(114,107,108);
+  margin-top:0;
+  color:white;
+  font-size: 14px;
+  font-weight: 500;
+  display:flex;
+}
+
+.card-group{
+  width:80% !important;
+  height: 80%  !important;
+}
+
+.btn-sm{
+  background-color: #5ed0e4;
+}
+.navHead{
+  font-size: 30px;
+}
+#navTitle{
+  color:wheat;
+}
+.carouselCaption{
+  color: wheat;
+}
+.logo{
+  height: 70%;
+  width: 70%;
+}
+.para{
+  font-family: 'Dancing Script', cursive;
+  color: #5ed0e4;
+}
+
+#collapsibleNavbar>ul>li>a{
+  color: #5ed0e4;
+  font-size: 20px;
+  font-weight: 900;
+}
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: calc(var(--jumbotron-padding-y) * 2);
+    padding-bottom: calc(var(--jumbotron-padding-y) * 2);
+  }
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+#search{
+  height: 100vh;
+}
+.addGroup{
+  text-align: center;
+}
+
+.modal-content{
+  background-color: #91d3df !important;
+  text-align: center;
+}
+
+.modal-title{
+  text-align: center;
+  font-weight: bolder;
+}
+
+.groupFormHead{
+  color:white;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.card-img-top{
+  width: 100% !important;
+  height: 250px !important;
+}
